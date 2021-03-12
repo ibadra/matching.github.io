@@ -44,6 +44,12 @@ div {
   height: 500px;
 }
 
+@media only screen and (max-width: 768px) {
+  #leftSide {
+  left: 0;
+  }
+}
+
 #rightSide {
   left: 500px;
   border-left: 10px solid #7868e6;
