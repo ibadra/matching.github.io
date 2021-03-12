@@ -1,0 +1,57 @@
+body {
+  background-color: #b8b5ff;
+  color: #413c69;
+  font-family: "Noto Sans JP", sans-serif;
+  position: relative;
+}
+
+h1 {
+  font: 80px "Monofett", cursive;
+  margin: 0;
+}
+#instructionsSection {
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px 60px 0;
+  position: relative;
+}
+p {
+  margin: 0 auto 20px;
+}
+span {
+  text-decoration: underline yellow 4px;
+  font-weight: 900;
+}
+
+#playSection {
+  position: absolute;
+  left: 13.5%;
+}
+
+img {
+  position: absolute;
+}
+div {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+}
+
+#rightSide {
+  left: 500px;
+  border-left: 10px solid #7868e6;
+}
+#buttonAppear {
+  visibility: hidden;
+  position: absolute;
+  top: 300px;
+  left: 430px;
+  padding: 50px;
+  border-radius: 40%;
+  border-style: none;
+  background-color: #b7657b;
+  font-family: "Noto Sans JP", sans-serif;
+  color: white;
+  font-size: 60px;
+  font-weight: 900;
+}
