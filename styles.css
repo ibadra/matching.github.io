@@ -28,6 +28,13 @@ span {
   left: 13.5%;
 }
 
+@media only screen and (max-width: 768px) {
+  #playSection {
+  position: absolute;
+  left: 0;
+  }
+}
+
 img {
   position: absolute;
 }
