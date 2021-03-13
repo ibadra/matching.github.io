@@ -25,7 +25,7 @@ span {
 
 #playSection {
   position: absolute;
-  left: 13.5%;
+  left: 0px;
 }
 
 @media screen and (max-width: 768px) {
@@ -41,12 +41,6 @@ div {
   position: absolute;
   width: 500px;
   height: 500px;
-}
-
-@media only screen and (max-width: 768px) {
-  #leftSide {
-  left: 0;
-  }
 }
 
 #rightSide {
