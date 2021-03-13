@@ -25,7 +25,7 @@ span {
 
 #playSection {
   position: absolute;
-  left: 0px;
+  left: 13.5%;
 }
 
 @media screen and (max-width: 768px) {
